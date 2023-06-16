@@ -82,79 +82,50 @@ experiences:
         company: Cortex IT - A WIRDGroup Company
         details: |       
           Datacenter infrastructure redesign (In Progress)
-
           - Cumulus Linux datacenter network implementation
-
           - Implementation and operation of firewall based on BSD
-
           - Redesign of rack operation in top of rack mode
-
           - IaaS technological choice
-
           - Architecture and negotiation for changes to physical IaaS and PaaS servers datacenter
-
           - Implementation of yubikey with double authentication ssh key and gpg key
 
           Implementation of the sphnix tool for technical documentatione
-
           - Based on continuous integration with Gitlab
 
           Implementation of the project management tool, timesheet and helpdesk support
-
           - Redesign workflow in Agile methodology
 
           Other
-
           - SuSe server management via SuSe Manager
-
           - Animation of the stand-up meeting of the operation team
-
           - Management of BSD server and Cumulus linux via SaltStack
-
           - Operation and supervision via Prometheus and Grafana
-
           - Operation of client docker containers
-
           - Customer Consulting
-
           - Implementation of calculation documents on the prices of data center returns, VM IaaS and dedicated server
       - role: Network system engineer
         time: 2015 - 2018
         company: Virtua S.A
         details: |
           - Intégrations des processus de suivit des demandes IT.
-
           - Management des resources et planning du pôle hosting.
-
           - Gestion des projets du pôle hébergement.
-
           - Suite de la mise en place de la gestion du parc informtique interne sous Ansible et iTop.
-
           - Support niveau 2 et 3 et consulting au client hébergement.
-
           - Mise en place du système d'inventaire du parc interne sous Ansilbe et iTop.
-
           - Support interne et client 1er, 2ème et 3ème niveau.
       - role: Apprenti
         time: 2011 - 2015
         company: IBM Suisse S.A
         details: |
           - Département Unix
-
           - Réalisation d'une application web pour la gestion des mots de passe des environnements Unix, Linux et AIX.
-
           - Département Support Niveau 3
-
           - Réalisation d'une application web (Wiki) pour le support de niveau 1, 2 et 3.
-
           - Département Gestion serveurs windows (Wintel)
-
           - Département Storage
-
           - Département Réseau
-
           - Département Support Niveau 2
-
           - Département HelpDesk
 
 projects:
