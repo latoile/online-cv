@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
@@ -39,94 +39,124 @@ sidebar:
           level: Bilingue
 
         - idiom: Anglais
-          level: professionnelle
+          level: Professionnelle
 
     interests:
-      title: Interests
+      title: Loisir
       info:
-        - item: Climbing
+        - item: Vélo - VTT
           link:
 
-        - item: Snowboarding
+        - item: Cuisiner
           link:
 
-        - item: Cooking
+        - item: Rendonnée
           link:
 
 career-profile:
-    title: Career Profile
+    title: À propos de moi
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Je suis un ingénieur en infrastructure cloud qui travaille actuellement pour l'entreprise Cortex-IT SA - A WIRDGroup Company.
+      Je m'occupe principalement de la conception et de la mise en oeuvre des projets cloud de tous types.
+      Comme la mise en place d'une infrastructure IaaS (Infrastructure As A Service), d'une infrastructure réseau Fabric L3 et de la mise en place des processus, workflow pour les équipes opérationnelles de ces infrastructures cloud.
 education:
-    title: Education
+    title: Formations
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Brevet fédéral informaticien en techniques des systèmes et réseaux TIC
+        university: Iseig - Institut Suisse d'Enseignement de l'Informatique de Gestion 
+        time: 2017 - 2018
+        details:
+      - degree: Cours Hermes Foudation
+        university: Iseig - Institut Suisse d'Enseignement de l'Informatique de Gestion
+        time: 2017
+        details:
+      - degree: CFC d'informaticien
+        university: IBM Suisse S.A
+        time: 2011-2015
+        details:
 experiences:
-    title: Experiences
+    title: Expériences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Operation engineer
+        time: 2018 - Actuellement
+        company: Cortex IT - A WIRDGroup Company
+        details: |       
+          Datacenter infrastructure redesign (In Progress)
+
+          - Cumulus Linux datacenter network implementation
+
+          - Implementation and operation of firewall based on BSD
+
+          - Redesign of rack operation in top of rack mode
+
+          - IaaS technological choice
+
+          - Architecture and negotiation for changes to physical IaaS and PaaS servers datacenter
+
+          - Implementation of yubikey with double authentication ssh key and gpg key
+
+          Implementation of the sphnix tool for technical documentatione
+
+          - Based on continuous integration with Gitlab
+
+          Implementation of the project management tool, timesheet and helpdesk support
+
+          - Redesign workflow in Agile methodology
+
+          Other
+
+          - SuSe server management via SuSe Manager
+
+          - Animation of the stand-up meeting of the operation team
+
+          - Management of BSD server and Cumulus linux via SaltStack
+
+          - Operation and supervision via Prometheus and Grafana
+
+          - Operation of client docker containers
+
+          - Customer Consulting
+
+          - Implementation of calculation documents on the prices of data center returns, VM IaaS and dedicated server
+      - role: Network system engineer
+        time: 2015 - 2018
+        company: Virtua S.A
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Intégrations des processus de suivit des demandes IT.
+
+          - Management des resources et planning du pôle hosting.
+
+          - Gestion des projets du pôle hébergement.
+
+          - Suite de la mise en place de la gestion du parc informtique interne sous Ansible et iTop.
+
+          - Support niveau 2 et 3 et consulting au client hébergement.
+
+          - Mise en place du système d'inventaire du parc interne sous Ansilbe et iTop.
+
+          - Support interne et client 1er, 2ème et 3ème niveau.
+      - role: Apprenti
+        time: 2011 - 2015
+        company: IBM Suisse S.A
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Département Unix
+
+          - Réalisation d'une application web pour la gestion des mots de passe des environnements Unix, Linux et AIX.
+
+          - Département Support Niveau 3
+
+          - Réalisation d'une application web (Wiki) pour le support de niveau 1, 2 et 3.
+
+          - Département Gestion serveurs windows (Wintel)
+
+          - Département Storage
+
+          - Département Réseau
+
+          - Département Support Niveau 2
+
+          - Département HelpDesk
+
 projects:
     title: Projects
     intro: >
@@ -196,7 +226,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences et maîtrise
 
     toolset:
       - name: Python & Django
@@ -217,5 +247,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
