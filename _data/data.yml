@@ -138,13 +138,13 @@ skills:
         level: 100%
 
       - name: Container - Docker, LXC, LXD, OpenShift, Rancher
-        level: 85%
+        level: 90%
 
       - name: Networking - Cumulus Linux, 6Wind, Fabric L3, BGP, VPN etc....
         level: 95%
 
       - name: IaC Automation - SaltSack, Ansible
-        level: 90%
+        level: 100%
 
       - name: Monitoring - Prometheus, Grafana, Alertmanager & exporter
         level: 100%
@@ -153,18 +153,19 @@ skills:
         level: 90%
 
       - name: Cybersécurité - Yubikey, GPG, SSH, Let's encrypt, Kali, OpenSense
-        level: 65%
-
-      - name: Developement - Bash, Python, HTML, CSS, JavaScript, GO, PHP, Jinja etc...
         level: 75%
 
+      - name: Developement - Bash, Python, HTML, CSS, JavaScript, GO, PHP, Jinja etc...
+        level: 85%
+
       - name: CMS - Wordpress
-        level: 80%;
+        level: 90%;
       
       - name: Project Management - Hermes, Agil Scrum etc...
-        level: 70%
+        level: 90%
 
       - name: Outil Graphique - Photoshop, illustrator
-        level: 60%
+        level: 70%
 
       - name: Autre Technologie - Haproxy, git, CollaboraOnline, LibreOffice, Nextcloud
+        level: 100%
