@@ -131,41 +131,50 @@ skills:
     title: Compétences et maîtrise
 
     toolset:
-      - name: IaaS - Proxmox, OpenStack, Joyent Triton
+      - name: IaaS (Proxmox, OpenStack, Joyent Triton, LibVirt)
         level: 100%
 
-      - name: Linux, BSD, Unix - Debian, Ubuntu, SuSe, Red Hat, OpenBSD, SmartOS, Mac OS
+      - name: System (Debian, Ubuntu, SuSe, Red Hat, OpenBSD, SmartOS, Mac OS)
         level: 100%
 
-      - name: Container - Docker, LXC, LXD, OpenShift, Rancher
+      - name: Container (Docker, LXC, LXD, OpenShift, Rancher)
         level: 90%
 
-      - name: Networking - Cumulus Linux, 6Wind, Fabric L3, BGP, VPN etc....
+      - name: Networking (Cumulus Linux, 6Wind, Fabric L3, BGP, VPN etc....)
         level: 95%
 
-      - name: IaC Automation - SaltSack, Ansible
+      - name: Storage (Minio S3, Ceph, Swift, TrueNas)
+        level: 95%
+
+      - name: IaC Automation (SaltSack, Ansible, CI-CD)
         level: 100%
 
-      - name: Monitoring - Prometheus, Grafana, Alertmanager & exporter
+      - name: Monitoring (Prometheus, Grafana, Alertmanager & exporter)
         level: 100%
 
-      - name: Databases - MariaDB, MySQL, MongoDB, PostgreSQL
+      - name: Databases (MariaDB, MySQL, MongoDB, PostgreSQL)
         level: 90%
 
-      - name: Cybersécurité - Yubikey, GPG, SSH, Let's encrypt, Kali, OpenSense
+      - name: Cybersécurité (Yubikey, GPG, SSH, Let's encrypt, Kali, OpenSense)
         level: 75%
 
-      - name: Developement - Bash, Python, HTML, CSS, JavaScript, GO, PHP, Jinja etc...
+      - name: Developement (Bash, Python, HTML, CSS, JavaScript, GO, PHP, Jinja etc...)
         level: 85%
 
-      - name: CMS - Wordpress
+      - name: CMS (Wordpress)
         level: 90%
       
-      - name: Project Management - Hermes, Agil Scrum etc...
+      - name: Framework (Hugo, Django, Frappe)
         level: 90%
 
-      - name: Outil Graphique - Photoshop, illustrator
+      - name: AI (OpenAI, AutoGPT, Vicuna)
+        level: 100%
+      
+      - name: Project Management (Hermes, Agil Scrum etc...)
+        level: 90%
+
+      - name: Outil Graphique (Photoshop, illustrator)
         level: 70%
 
-      - name: Autre Technologie - Haproxy, git, CollaboraOnline, LibreOffice, Nextcloud
+      - name: Autre Technologie (Haproxy, git, gitlab, Collabora Online, OnlyOffice, LibreOffice, redmine, easyredmine, DNS "BIND9", )
         level: 100%
